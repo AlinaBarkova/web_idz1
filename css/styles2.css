@@ -1,0 +1,54 @@
+body {
+       background: #edeef0;
+       margin:0;
+       padding: 0;
+ }
+ .hader{
+ 	width: 100%;
+ 	height: 99px;
+ 	background: radial-gradient(ellipse at center,#A9A9A9 10%,#edeef0 100%);
+ 	border-bottom: 1px solid #edeef0;
+ 	text-align: center;
+
+ }
+ .logo:hover{
+     -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+      }
+ .hader img{
+ 	padding: 25px 0 0;
+ }
+ .main{
+ 	width: 100%;
+ 	position: relative;
+ 	margin: 0;
+ }
+ .title{
+ 	width: 60%;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+ img{
+ 	max-width: 100%;
+    vertical-align: middle;
+    height: auto;
+ }
+ h3{
+ 	font-family: 'Open Sans',sans-serif;
+ 	color: #333;
+ }
+
+
+ .footer{
+ 	background: radial-gradient(ellipse at center,#A9A9A9 10%,#edeef0 100%);
+ 	border-bottom: 1px solid #edeef0;
+ 	padding: 5px;
+ 	text-align: center;
+ 	color: #000000;
+
+ }
+ .up{
+ 	float: left;
+ 	width: 50px;
+ }
